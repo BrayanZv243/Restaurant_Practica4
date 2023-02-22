@@ -8,14 +8,13 @@
     android:background="@color/crema"
     tools:context=".MainActivity">
 
-   <ImageView
-       android:id="@+id/imageView"
-       android:layout_width="match_parent"
-       android:layout_height="470dp"
-       android:scaleType="fitXY"
-       android:src="@drawable/portales"
-       tools:ignore="MissingConstraints"
-       />
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="398dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/portales"
+        tools:ignore="MissingConstraints" />
 
     <TextView
         android:id="@+id/textView"

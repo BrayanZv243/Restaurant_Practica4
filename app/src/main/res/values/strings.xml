@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Practica4</string>
+    <string name="app_name">Los Portales - Taqueria</string>
 
     <!---Strings para el acitivy main-->
     <string name="welcome_text"> Welcome to the Portales! </string>
